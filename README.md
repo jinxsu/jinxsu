@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jinxsu
-- 👀 I’m interested in Video Games, Security network
-- 🌱 I’m currently learning C# and C++ in College
+- 👀 I’m interested in Video Games, Security network, 3D Modeling and Animations
+- 🌱 I’m currently learning C#, C++ and Java in College
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
