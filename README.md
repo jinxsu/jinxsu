@@ -2,7 +2,7 @@
 - 👀 I’m interested in Video Games, 3D Modeling and Animations
 - 🌱 I’m currently learning C#, C++ and Java
 - I am a University Student Majoring in Software Engineering
-- I am base in Montreal, Canada
+- I am based in Montreal, Canada
 - I speak French, English, Mandarin and understand Spanish
 
 <!---
